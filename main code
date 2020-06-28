@@ -7,7 +7,7 @@
    <!--- Basic Page Needs
    ================================================== -->
    <meta charset="utf-8">
-	<title>eats4less.com - Free Responsive HTML5/CSS3 Template</title>
+	<title>EZeats.com - Free Responsive HTML5/CSS3 Template</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 
@@ -47,7 +47,7 @@
 
 			<div id="logo" >
 				<a href="#" >
-                 <img src="/eats4less/uploads/admin/logo1.png" alt="eats4less.com">                  
+                 <img src="/EZeats/uploads/admin/logo1.png" alt="eats4less.com">                  
               </a>					
 			</div>
 
